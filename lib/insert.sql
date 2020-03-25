@@ -1,1 +1,1 @@
-INSERT INOT users 
+INSERT INTO users 
